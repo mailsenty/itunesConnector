@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(itunes:greet) -->
+    <itunes:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(itunes:greet) -->
